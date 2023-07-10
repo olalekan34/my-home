@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div{
+    height: 75%;
+    width: 22%;
+    background-color: blue;
+    border: none;
+    border-radius: 12px;
+}
+input{
+     border: none;
+     height: 15%;
+     width: 90%;
+     margin-top: 15%;
+     margin-left: 5%;
+     outline: none;
+     background-color: chocolate;
+     color: whitesmoke;
+     font-size: 40px;
+     
+
+
+
+
+}
+     
+button{
+    font-size: x-large;
+    font-weight: bold;
+    height: 12%;
+    width: 20%;
+    margin-top: 2%;
+    margin-left: 3%;
+    border: none;
+    border-radius: 30px;
+    
+
+
+}
+#zero{
+    width: 45%;
+    background-color: orange;
+    color: white;
+}
+#division,#multiply,#sub,#add,#equal{
+    background-color: orange;
+    color: whitesmoke;
+}
